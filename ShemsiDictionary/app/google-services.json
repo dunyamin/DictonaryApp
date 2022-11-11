@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062603134660",
+    "project_id": "shemsidictionary",
+    "storage_bucket": "shemsidictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062603134660:android:723654d810eced8d269b91",
+        "android_client_info": {
+          "package_name": "com.dunyamin.shemsidictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062603134660-28ceqf30cdnsvog2sip01ld2raqovfe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dunyamin.shemsidictionary",
+            "certificate_hash": "f1b904486e3c5a4bc5da7cd124154211307ffc93"
+          }
+        },
+        {
+          "client_id": "1062603134660-rcmkrieq0h7cvm08bg3tmhdganqtv4gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hdGgJXmtaHlppd95egaXn95axJexaRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062603134660-rcmkrieq0h7cvm08bg3tmhdganqtv4gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
